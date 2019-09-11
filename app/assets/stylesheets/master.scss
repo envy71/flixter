@@ -88,6 +88,8 @@ body {
 }
 
 .lesson {
+  border: 2px solid;
+  border-color: #e4e4e4 #bebebd #bebebd #e4e4e4;
   background-color: black;
   margin-top: 10px;
   height: 130px;
@@ -95,9 +97,11 @@ body {
 }
 
 .section {
-  border: 1px solid;
+  border: 5px solid;
   border-color: #e4e4e4 #bebebd #bebebd #e4e4e4;
   padding: 20px;
+  background: #002F58;
+  color: white;
 }
 
 .lesson a {
@@ -116,10 +120,12 @@ ul {
 }
 
 .section-li {
-  border: 1px solid;
+  border: 5px solid;
   border-color: #e4e4e4 #bebebd #bebebd #e4e4e4;
   padding: 20px;
   margin: 20px;
+  background: #002F58;
+  color: white;
 }
 
 ul .header {
@@ -131,6 +137,8 @@ ul .header .fa {
 }
 
 .lessons li {
+  border: 2px solid;
+  border-color: #e4e4e4 #bebebd #bebebd #e4e4e4;
   background: black;
   color: white;
   margin: 10px;
